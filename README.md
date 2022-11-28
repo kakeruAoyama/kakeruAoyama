@@ -11,7 +11,7 @@
 ## 自己と他者の評価を見比べる自己分析サイト、ジョハリの窓  
 2020/1 ~ 2020/4  
 個人開発  
-https://johawin.herokuapp.com/  
+https://johawin.fly.dev/ 
 - 使用技術
   - Rails
   - heroku
@@ -69,6 +69,8 @@ JSを使って、動的に入力の候補を表示する機能を実装
  - Rails7
  - Tailwind CSS
  - Hotwire
+ - RPA
+ - GAS
  
  ## サンバシ株式会社HP作成
  2022/3~2022/7
