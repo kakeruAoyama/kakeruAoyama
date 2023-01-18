@@ -1,13 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kakeruAoyama&show_icons=true" height="158px" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakeruAoyama&layout=compact" height="158px" />
-</a>
-
-
-### Portfolio
+# Portfolio
 ## 自己と他者の評価を見比べる自己分析サイト、ジョハリの窓  
 2020/1 ~ 2020/4  
 個人開発  
