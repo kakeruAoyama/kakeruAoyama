@@ -7,6 +7,7 @@ https://johawin.fly.dev/
 - 使用技術
   - Rails
   - heroku
+  - fly.io
   - PostgreSQL
   
 ## プログラミングスクールでメンター業務
