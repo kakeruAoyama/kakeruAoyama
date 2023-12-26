@@ -1,5 +1,14 @@
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakeruAoyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakeruAoyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakeruAoyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakeruAoyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakeruAoyama&theme=gruvbox&utcOffset=9)
 
-# Portfolio
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=kakeruAoyama&theme=gruvbox)
+
+# 経歴
 ## 自己と他者の評価を見比べる自己分析サイト、ジョハリの窓  
 2020/1 ~ 2020/4  
 個人開発  
